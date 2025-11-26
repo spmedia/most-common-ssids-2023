@@ -1,4 +1,4 @@
-The most common top 15000 ssids from 2023.
+The most common top 15,000 ssids from 2023.
 
 WiGLE is bae
 
